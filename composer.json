@@ -1,5 +1,5 @@
 {
-    "name": "seta0909/laravel-tw-streetname",
+    "name": "LarvataTW/laravel-tw-streetname",
     "description": "",
     "license": "MIT",
     "version": "0.0.5",
@@ -10,12 +10,12 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
+        "php": "^7.0",
+        "illuminate/support": "5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0"
     },
     "autoload": {
         "psr-0": {
-            "Seta0909\\LaravelTwStreetname\\": "src/"
+            "LarvataTW\\LaravelTwStreetname\\": "src/"
         }
     },
     "minimum-stability": "stable"
